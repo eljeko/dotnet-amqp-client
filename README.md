@@ -1,5 +1,7 @@
 # Build
 
+This example is tested with dotnet core 3.1.302.
+
 To test this client follow this steps:
 
 1. Clean the project: `dotnet clean`

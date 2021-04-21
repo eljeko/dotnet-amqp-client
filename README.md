@@ -1,4 +1,5 @@
-# Build
+# Sender
+## Build
 
 This example is tested with dotnet core 3.1.302.
 
@@ -8,7 +9,7 @@ To test this client follow this steps:
 2. Restore: `dotnet restore`
 3. Build: `dotnet build`
 
-# Run the example
+## Run the example
 
 Just execute `dotnet run MyQueueName`
 
